@@ -19,8 +19,6 @@ This project implements a car parking system using an Arduino board. It utilizes
 - Adjusts LED brightness based on ambient light using an LDR
 - Displays temperature on the LCD screen and triggers an alarm if the temperature exceeds a certain threshold
 
-## Circuit Diagram
-
 
 ## Installation
 1. Connect the components as per the circuit diagram.
